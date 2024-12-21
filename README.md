@@ -33,7 +33,7 @@ Make sure you have the following installed:
 ### Setup
 1. Clone this repository:
    ```bash
-   git clone [<repository_url>](https://github.com/SarthakB11/zoho-assignment.git)
+   git clone https://github.com/SarthakB11/zoho-assignment.git
    cd zoho-assignment
    ```
 
